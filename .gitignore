@@ -1,0 +1,33 @@
+# Directorios de compilación
+/bin/
+/target/
+
+# Archivos de compilación
+*.class
+
+# Archivos y directorios de IDE
+/eclipse/
+/idea/
+*.iml
+.project
+.classpath
+.idea/
+
+# Archivos generados automáticamente
+*.jar
+*.war
+*.ear
+*.log
+*.tmp
+
+# Archivos de dependencias
+/lib/
+/dependencies/
+*.jar
+*.pom
+
+# Archivos de configuración personal
+.settings/
+.idea/workspace.xml
+.classpath
+.project
